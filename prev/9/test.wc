@@ -1,0 +1,5 @@
+func main(): u0 {
+    let i: i64;
+    i = i + 5;
+}
+

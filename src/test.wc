@@ -1,0 +1,10 @@
+func test(): i64 {
+    ret(25);
+}
+
+func main(): u0 {
+    let x: i64;
+    x = test(5);
+}
+
+
